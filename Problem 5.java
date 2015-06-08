@@ -1,4 +1,5 @@
-/*
+/*Smallest multiple
+Problem 5
 
 2520 is the smallest number that c
 an be divided by each of the numbers from 1 to 10 
